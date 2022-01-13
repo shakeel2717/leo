@@ -130,7 +130,7 @@ $(document).ready(function () {
         } else {
             $.ajax({
                 type: "POST",
-                url: 'http://leo.local.com/store.php',
+                url: '/store.php',
                 data: {
                     "username": username,
                     "message": input
