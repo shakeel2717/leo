@@ -9,6 +9,7 @@
     <meta name="Description" content="Well designed, easy to understand and use">
     <title> Leopardinu - Welcome to Leopardinu Official Website.</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/magnific-popup.css" rel="stylesheet">
     <link href="/css/style.css" rel="stylesheet">
@@ -40,6 +41,8 @@ if (isset($_SESSION['username'])) {
                         <li class="nav-item"><a class="nav-link" href="https://www.dextools.io/app/bsc/pair-explorer/0xb67800d46F9Ad3830C4682bb46d73c0aB163d7b5">DexTools</a></li>
                         <li class="nav-item"><a class="nav-link" href="https://poocoin.app/tokens/0xb67800d46F9Ad3830C4682bb46d73c0aB163d7b5">PooCoin</a></li>
                         <li class="nav-item"><a class="nav-link" href="https://bscscan.com/token/0xb67800d46F9Ad3830C4682bb46d73c0aB163d7b5">BSCscan</a></li>
+                        <li class="nav-item"><a class="nav-link" href="https://memetools.app/">Meme Tools</a></li>
+                        
                         <li class="nav-item"><a class="nav-link" id="roadmap-button" href="javascript:void(0)">ROADMAP</a></li>
                         <li class="nav-item"><a class="nav-link" id="chat-button" href="javascript:void(0)">CHAT</a></li>
                     </ul>

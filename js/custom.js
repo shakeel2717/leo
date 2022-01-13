@@ -23,7 +23,7 @@ $(function () {
 
     //Preloader js
     $('#musa-loader').delay(1500).fadeOut(500);
-     // newsletter
+    // newsletter
 
     // this is for back to top js
     var bc2top = $('#back-top-btn');
@@ -159,7 +159,7 @@ $(document).ready(function () {
     });
 
 
-    
+
 
     $('#chatBoxClose').click(function () {
         // toggle chat-window css class
