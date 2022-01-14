@@ -14,11 +14,6 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="col-md-12 text-center">
-                        <div class="cont-icon">
-                            <h6><a href="https://mega.nz/folder/AEYSTJLa#saxHzMhULH15fTDmj5mxeg" class="text-white" target="_blank">Mega Download Link</a></h6>
-                        </div>
-                    </div>
                 </div>
             </div>
         </div>
